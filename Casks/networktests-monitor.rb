@@ -12,7 +12,7 @@ cask "networktests-monitor" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   pkg "NetworkTests-Monitor-#{version}.pkg"
 
