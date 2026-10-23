@@ -1,6 +1,6 @@
 cask "networktests-monitor" do
-  version "0.4.3"
-  sha256 "b6a8b79e57a37c7a365435306c6951db684197876b510cbe9478c74857e5b4ad"
+  version "0.4.4"
+  sha256 "ac683bb5c2b2d7f49337f438108c45913baa1fd2c88c53f90861fa8d96c61a1d"
 
   url "https://github.com/networktests/networktests/releases/download/v#{version}/NetworkTests-Monitor-#{version}.pkg"
   name "NetworkTests Monitor"
